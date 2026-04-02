@@ -1,6 +1,7 @@
 ## Hi there 👋
+## 나는 우송정보대학교 글로벌 제과제빵과를 졸업한 원가영 이라고 해
+![KakaoTalk_20221102_140616722_04](https://github.com/user-attachments/assets/c4c3afef-13df-425e-9c5b-749b55d58ba4)
 
-<!--
 **rkdud1031-gif/rkdud1031-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 내가 공부하고 있는 내용은 다음 링크에 있어

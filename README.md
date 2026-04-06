@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## 실행
 https://rkdud1031-gif.github.io/My-first-repo/
+
+<p align="center">
+  <img src="https://github.com/rkdud1031-gif/rkdud1031-gif/blob/main/%EC%9B%90%EA%B0%80%EC%98%81.jpg" width="400">
+</p>

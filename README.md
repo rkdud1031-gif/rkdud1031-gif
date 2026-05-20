@@ -24,6 +24,10 @@ https://rkdud1031-gif.github.io/My-first-repo/
   <img src="https://github.com/rkdud1031-gif/rkdud1031-gif/blob/main/%EC%9B%90%EA%B0%80%EC%98%81.jpg" width="400">
 </p>
 
+<내가 하고 있는 사물인식 프로젝트>
+
 1. 티처블 머신을 이용한 사물인식 https://github.com/rkdud1031-gif/ObjectDetectionWithTM
-2. 티처블 머신을이용한 사물인식 결과에 따라 휴머노이드 로봇이 움직이도록 했음 https://github.com/rkdud1031-gif/robotControlWithTM
-3. YoloV5를 이용한 80가지 사물인식 https://github.com/rkdud1031-gif/yolov5ReadTime
+2. 티처블 머신을 이용한 사물인식 결과에 따라 휴머노이드 로봇이 움직이도록 했음
+   https://github.com/rkdud1031-gif/robotControlWithTM 
+3. YoloV5를 이용한 80가지 사물인식 https://github.com/rkdud1031-gif/yolov5ReadTime 
+4. YoloV5+Robot https://github.com/rkdud1031-gif/202605_001-YoloV5WithRobot

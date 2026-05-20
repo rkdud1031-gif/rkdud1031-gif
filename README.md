@@ -31,3 +31,4 @@ https://rkdud1031-gif.github.io/My-first-repo/
    https://github.com/rkdud1031-gif/robotControlWithTM 
 3. YoloV5를 이용한 80가지 사물인식 https://github.com/rkdud1031-gif/yolov5ReadTime 
 4. YoloV5+Robot https://github.com/rkdud1031-gif/202605_001-YoloV5WithRobot
+5. YoloV5-webapp https://github.com/rkdud1031-gif/yolo_webapp

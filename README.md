@@ -33,4 +33,5 @@ https://rkdud1031-gif.github.io/My-first-repo/
 4. YoloV5+Robot https://github.com/rkdud1031-gif/202605_001-YoloV5WithRobot
 
 ## 웹 앱으로 구성한 사물인식
-5. YoloV5-webapp https://github.com/rkdud1031-gif/yolo_webapp
+1. Yolo 실시간 사물인식 https://github.com/rkdud1031-gif/yolo_webapp
+실행해보기 https://www.genspark.ai/api/code_sandbox_light_git/preview/1bb3c05f-286c-43ae-b26f-3461cdf46966/index.html?canvas_history_id=50ad9d221d10e9dcceb3abfb8c3ca0d27817248f

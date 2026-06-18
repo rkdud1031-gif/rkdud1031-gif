@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aradia1031@naver.com
 
 ## 실행
-https://rkdud1031-gif.github.io/My-first-repo/
+https://rkdud1031-gif.github.io/My-first-repo/   
+https://rkdud1031-gif.github.io/my-second-repo/
 
 <p align="center">
   <img src="https://github.com/rkdud1031-gif/rkdud1031-gif/blob/main/%EC%9B%90%EA%B0%80%EC%98%81.jpg" width="400">

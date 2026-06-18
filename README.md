@@ -4,7 +4,7 @@
 
 # 2026년 제가 진행하고 있는 프로젝트 입니다.
 글로벌 디저트 플랫폼 - https://github.com/rkdud1031-gif/My-first-repo   
-인터렉티브 디지털 헬스케어 플랫폼 - https://github.com/rkdud1031-gif/my-second-repo
+AI 인터렉티브 디지털 헬스케어 독서 플랫폼 - https://github.com/rkdud1031-gif/my-second-repo
 
 **rkdud1031-gif/rkdud1031-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,7 +3,7 @@
 ![KakaoTalk_20221102_140616722_04-1](https://github.com/user-attachments/assets/12ed79a3-2dce-4307-a4a5-3a8dd5048495)
 
 # 2026년 제가 진행하고 있는 프로젝트 입니다.
-글로벌 디저트 플랫폼 - https://github.com/rkdud1031-gif/My-first-repo
+글로벌 디저트 플랫폼 - https://github.com/rkdud1031-gif/My-first-repo   
 인터렉티브 디지털 헬스케어 플랫폼 - https://github.com/rkdud1031-gif/my-second-repo
 
 **rkdud1031-gif/rkdud1031-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
